@@ -1,4 +1,4 @@
-package org.shkim.server;
+package org.shkim.echo.server;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

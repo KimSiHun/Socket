@@ -1,4 +1,4 @@
-package org.shkim.client;
+package org.shkim.echo.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;

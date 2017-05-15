@@ -1,4 +1,4 @@
-package org.shkim.server;
+package org.shkim.echo.server;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

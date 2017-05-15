@@ -1,4 +1,4 @@
-package org.shkim.client;
+package org.shkim.echo.client;
 
 import org.shkim.conf.Configure;
 
